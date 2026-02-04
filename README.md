@@ -1,1 +1,3 @@
 # dotfiles
+---
+minimalistic dotfiles setup
