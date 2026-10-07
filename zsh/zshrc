@@ -102,7 +102,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # bun completions
-[ -s "/Users/fifi/.bun/_bun" ] && source "/Users/fifi/.bun/_bun"
 alias vim='nvim'
 alias gs='git status'
 alias gb='git branch'
